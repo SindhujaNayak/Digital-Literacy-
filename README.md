@@ -8,7 +8,7 @@
 | Field | Details |
 |---|---|
 | **Name** | *Sindhuja Nayak* |
-| **Registration No.** | *25BHI10133* |
+| **Registration No.** | *25BCE10133* |
 | **Branch** | B.Tech – CSE Core |
 | **Year / Semester** | First Year – Semester (2) |
 | **Course Code** | CSE0001 |
