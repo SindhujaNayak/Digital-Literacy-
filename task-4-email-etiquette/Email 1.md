@@ -24,8 +24,8 @@ I sincerely apologise for any inconvenience this may cause and I am happy to pro
 Thank you very much for your time and consideration. I look forward to your response.
  
 Warm regards,
-Farah Raza
-B.Tech – CSE Health Informatics
-Roll No.: 25Bhi10027
+Sndhuja Nayak
+B.Tech – CSE Core
+Roll No.: 25BCE10133
 
  
